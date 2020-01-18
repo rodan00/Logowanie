@@ -1,0 +1,8 @@
+
+"squid:ClassVariableVisibilityCheck"SMake runFlag a static final constant or non-public and provide accessors if needed.(¯¯§ùÿÿÿÿ8Í¬Ãû-
+Psquid:S1444"-Make this "public static runFlag" field final(¯¯§ùÿÿÿÿ8Í¬Ãû-
+…"squid:ClassVariableVisibilityCheck"PMake bean a static final constant or non-public and provide accessors if needed.(‘Ñºı8¥ĞÑÄû-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û½´şÿÿÿÿ
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(õƒºòøÿÿÿÿ8´¹¼Ãû-
+Hsquid:S1444"*Make this "public static bean" field final(‘Ñºı8ö’×Äû-

@@ -1,0 +1,37 @@
+
+Ssquid:S2209"5Change this instance-reference to a static reference.(Ç–İü8Ï¸øÃû-
+V
+squid:S106_"9Replace this use of System.out or System.err by a logger.(æîÕ8°ã÷Ãû-
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ù×ãä8‚‚™Äû-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù÷Ç÷8¬²ÉÀû-
+Gsquid:S1481R")Remove this unused "user" local variable.(Ë­ÍÃ8ñÀ¸Âû-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ú‚˜äıÿÿÿÿ8Š©üÃû-
+V
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Ô—ÕÌ8ŸèƒÄû-
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(÷„´úÿÿÿÿ8Ğ·Âû-
+]squid:S1118	":Add a private constructor to hide the implicit public one.(ÏÕÏ×üÿÿÿÿ8¯€ÈÀû-
+V
+squid:S106F"9Replace this use of System.out or System.err by a logger.(Ô—ÕÌ8Ğ·Âû-
+U
+squid:S106N"9Replace this use of System.out or System.err by a logger.(’¾ÿk8Ğ·Âû-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÿ½®8¬²ÉÀû-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¿Âëüÿÿÿÿ
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(Ã¼ºıÿÿÿÿÿ8™”êÃû-
+Vsquid:S1854R"8Remove this useless assignment to local variable "user".(Ë­ÍÃ8ñÀ¸Âû-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÉ²Û8¬²ÉÀû-
+i
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(¡È›8ÄĞªÃû-
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(Óåç¯8’Ø—Äû-
+V
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ò“Àú8Ğ·Âû-
+nsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(´£ç‚øÿÿÿÿ8Õ›Ãû-
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(÷„´úÿÿÿÿ8ŸèƒÄû-
